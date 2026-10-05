@@ -1,4 +1,4 @@
-Estructura inicial del proyecto Hospital Seguro-PE
+Estructura inicial del proyecto Hospital Seguro-
 package hospitalsegurope;
 import java.util.ArrayList;
 import java.util.List;
