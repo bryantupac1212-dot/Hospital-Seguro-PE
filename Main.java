@@ -1,4 +1,4 @@
-Estructura inicial del proyecto Hospital Seguro-fddeg
+Estructura inicial del proyecto Hospital Seguro-fddege
 package hospitalsegurope;
 import java.util.ArrayList;
 import java.util.List;
